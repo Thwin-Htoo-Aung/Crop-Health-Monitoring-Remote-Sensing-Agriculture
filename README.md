@@ -1,3 +1,9 @@
+### Smart Aquaponics IoT System Design: Vertical Approach
+
+## Author:Thwin Htoo Aung, Khaing Zar Win, Nyo Nyo Yee
+University of Technology (Yatanarpon Cyber City), Myanmar
+Email:thwinhtoo469@gmail.com
+
 ## Abstract: 
 A Smart Aquaponics IoT System with a vertical approach is an innovative and efficient
 method for sustainable food production, integrating fish farming with hydroponic plant cultivation
